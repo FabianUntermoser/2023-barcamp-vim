@@ -23,6 +23,6 @@ The workshop is structured into basic and advanced tasks, gradually introducing 
 
 1. Clone this repository.
 2. Open the provided Nginx configuration file (`nginx.conf`) in Vim.
-3. Follow the tasks outlined in the `TASKS.md` file.
-4. Experiment with Vim commands and explore the power of this text editor.
+3. Follow the tasks outlined in the `nginx.conf` file.
+4. Experiment with Vim commands and different solutions. 
 
