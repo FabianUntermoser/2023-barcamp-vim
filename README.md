@@ -16,13 +16,9 @@ The workshop is structured into basic and advanced tasks, gradually introducing 
 - Explore conditional statements and configuration blocks.
 - Practice global search and replace for more extensive changes.
 
-### Showcase
-- Demonstrate visual selection to change multiple lines at once.
-
 ## How to Use
 
 1. Clone this repository.
 2. Open the provided Nginx configuration file (`nginx.conf`) in Vim.
 3. Follow the tasks outlined in the `nginx.conf` file.
 4. Experiment with Vim commands and different solutions. 
-
